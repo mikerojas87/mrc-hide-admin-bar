@@ -4,7 +4,7 @@ Plugin Name: MR Hide Admin Bar
 Plugin URI: https://mikerojas.com/plugins/hide-admin-bar/
 Description: Hides the WP Admin Bar.
 Author: Mike Rojas
-Version: 0.1.0
+Version: 0.1.1
 Author URI: https://mikerojas.com/
 */
 
